@@ -31,15 +31,6 @@ make
 
 This will compile all necessary `.c` files and produce `libft.a`, your very own static library ready to be linked in future C projects.
 
-## 📦 Files Structure
-
-```
-libft/
-├── libft.h         # Header file with all function prototypes
-├── ft_*.c          # All source files
-├── Makefile        # Makefile with all, clean, fclean, re, and bonus rules
-```
-
 ## ✅ Compilation Flags
 
 All files are compiled using:
